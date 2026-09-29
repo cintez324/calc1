@@ -1,4 +1,7 @@
 #include <stdio.h>
+int add(int a, int b){
+    return a+b;
+}
 int main() {
     short k = 1;
     short dey = 0;
