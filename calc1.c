@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
     short k = 1;
     short dey = 0;
